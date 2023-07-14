@@ -25,6 +25,4 @@ Este é um aplicativo de controle de despesas pessoais desenvolvido em Flutter. 
 
 Contribuições são bem-vindas! Se você encontrar algum problema, tiver alguma ideia de melhoria ou quiser adicionar novos recursos, fique à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
 
-Este projeto está licenciado sob a [MIT License](https://opensource.org/licenses/MIT).
