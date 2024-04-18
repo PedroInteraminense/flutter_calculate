@@ -11,7 +11,8 @@ Este é um aplicativo de controle de despesas pessoais desenvolvido em Flutter. 
 - Interface personalizada: O aplicativo possui uma interface amigável e foi estilizado com uma paleta de cores roxo e âmbar.
 
 ## Capturas de tela
-https://github.com/PedroInteraminense/Shiny-BANK---CREDIT-SCORE
+![APP](https://github.com/PedroInteraminense/flutter_calculate/assets/67659484/527318a9-d863-4c5f-8372-ca91bd5e4e74)
+
 ## Como executar o aplicativo
 
 1. Certifique-se de ter o Flutter instalado e configurado corretamente em seu ambiente de desenvolvimento.
